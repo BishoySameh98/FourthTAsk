@@ -1,0 +1,15 @@
+C:\Users\bisho\source\repos\Task (4)\Task (4)\bin\Debug\net8.0\Task (4) search1.exe
+C:\Users\bisho\source\repos\Task (4)\Task (4)\bin\Debug\net8.0\Task (4) search1.deps.json
+C:\Users\bisho\source\repos\Task (4)\Task (4)\bin\Debug\net8.0\Task (4) search1.runtimeconfig.json
+C:\Users\bisho\source\repos\Task (4)\Task (4)\bin\Debug\net8.0\Task (4) search1.dll
+C:\Users\bisho\source\repos\Task (4)\Task (4)\bin\Debug\net8.0\Task (4) search1.pdb
+C:\Users\bisho\source\repos\Task (4)\Task (4)\obj\Debug\net8.0\Task (4) search1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisho\source\repos\Task (4)\Task (4)\obj\Debug\net8.0\Task (4) search1.AssemblyInfoInputs.cache
+C:\Users\bisho\source\repos\Task (4)\Task (4)\obj\Debug\net8.0\Task (4) search1.AssemblyInfo.cs
+C:\Users\bisho\source\repos\Task (4)\Task (4)\obj\Debug\net8.0\Task (4) search1.csproj.CoreCompileInputs.cache
+C:\Users\bisho\source\repos\Task (4)\Task (4)\obj\Debug\net8.0\Task (4) search1.sourcelink.json
+C:\Users\bisho\source\repos\Task (4)\Task (4)\obj\Debug\net8.0\Task (4) search1.dll
+C:\Users\bisho\source\repos\Task (4)\Task (4)\obj\Debug\net8.0\refint\Task (4) search1.dll
+C:\Users\bisho\source\repos\Task (4)\Task (4)\obj\Debug\net8.0\Task (4) search1.pdb
+C:\Users\bisho\source\repos\Task (4)\Task (4)\obj\Debug\net8.0\Task (4) search1.genruntimeconfig.cache
+C:\Users\bisho\source\repos\Task (4)\Task (4)\obj\Debug\net8.0\ref\Task (4) search1.dll
