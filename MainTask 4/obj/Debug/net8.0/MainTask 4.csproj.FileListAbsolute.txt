@@ -1,0 +1,30 @@
+C:\Users\bisho\OneDrive\Desktop\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisho\OneDrive\Desktop\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.AssemblyInfoInputs.cache
+C:\Users\bisho\OneDrive\Desktop\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.AssemblyInfo.cs
+C:\Users\bisho\OneDrive\Desktop\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.csproj.CoreCompileInputs.cache
+C:\Users\bisho\OneDrive\Desktop\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.sourcelink.json
+C:\Users\bisho\OneDrive\Desktop\MainTask 4\MainTask 4\bin\Debug\net8.0\MainTask 4.exe
+C:\Users\bisho\OneDrive\Desktop\MainTask 4\MainTask 4\bin\Debug\net8.0\MainTask 4.deps.json
+C:\Users\bisho\OneDrive\Desktop\MainTask 4\MainTask 4\bin\Debug\net8.0\MainTask 4.runtimeconfig.json
+C:\Users\bisho\OneDrive\Desktop\MainTask 4\MainTask 4\bin\Debug\net8.0\MainTask 4.dll
+C:\Users\bisho\OneDrive\Desktop\MainTask 4\MainTask 4\bin\Debug\net8.0\MainTask 4.pdb
+C:\Users\bisho\OneDrive\Desktop\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.dll
+C:\Users\bisho\OneDrive\Desktop\MainTask 4\MainTask 4\obj\Debug\net8.0\refint\MainTask 4.dll
+C:\Users\bisho\OneDrive\Desktop\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.pdb
+C:\Users\bisho\OneDrive\Desktop\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.genruntimeconfig.cache
+C:\Users\bisho\OneDrive\Desktop\MainTask 4\MainTask 4\obj\Debug\net8.0\ref\MainTask 4.dll
+C:\Users\bisho\OneDrive\Desktop\BackEnd .NET Erasoft\Tasks&Sessions\MainTask 4\MainTask 4\bin\Debug\net8.0\MainTask 4.exe
+C:\Users\bisho\OneDrive\Desktop\BackEnd .NET Erasoft\Tasks&Sessions\MainTask 4\MainTask 4\bin\Debug\net8.0\MainTask 4.deps.json
+C:\Users\bisho\OneDrive\Desktop\BackEnd .NET Erasoft\Tasks&Sessions\MainTask 4\MainTask 4\bin\Debug\net8.0\MainTask 4.runtimeconfig.json
+C:\Users\bisho\OneDrive\Desktop\BackEnd .NET Erasoft\Tasks&Sessions\MainTask 4\MainTask 4\bin\Debug\net8.0\MainTask 4.dll
+C:\Users\bisho\OneDrive\Desktop\BackEnd .NET Erasoft\Tasks&Sessions\MainTask 4\MainTask 4\bin\Debug\net8.0\MainTask 4.pdb
+C:\Users\bisho\OneDrive\Desktop\BackEnd .NET Erasoft\Tasks&Sessions\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisho\OneDrive\Desktop\BackEnd .NET Erasoft\Tasks&Sessions\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.AssemblyInfoInputs.cache
+C:\Users\bisho\OneDrive\Desktop\BackEnd .NET Erasoft\Tasks&Sessions\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.AssemblyInfo.cs
+C:\Users\bisho\OneDrive\Desktop\BackEnd .NET Erasoft\Tasks&Sessions\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.csproj.CoreCompileInputs.cache
+C:\Users\bisho\OneDrive\Desktop\BackEnd .NET Erasoft\Tasks&Sessions\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.sourcelink.json
+C:\Users\bisho\OneDrive\Desktop\BackEnd .NET Erasoft\Tasks&Sessions\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.dll
+C:\Users\bisho\OneDrive\Desktop\BackEnd .NET Erasoft\Tasks&Sessions\MainTask 4\MainTask 4\obj\Debug\net8.0\refint\MainTask 4.dll
+C:\Users\bisho\OneDrive\Desktop\BackEnd .NET Erasoft\Tasks&Sessions\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.pdb
+C:\Users\bisho\OneDrive\Desktop\BackEnd .NET Erasoft\Tasks&Sessions\MainTask 4\MainTask 4\obj\Debug\net8.0\MainTask 4.genruntimeconfig.cache
+C:\Users\bisho\OneDrive\Desktop\BackEnd .NET Erasoft\Tasks&Sessions\MainTask 4\MainTask 4\obj\Debug\net8.0\ref\MainTask 4.dll
